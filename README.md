@@ -7,7 +7,8 @@ Link to All resources:-https://codebasics.io/resources/end-to-end-data-analyst-p
 <br>Understanding weekday vs weekend performance.
 <br>Identifying which room types or booking platforms drive higher realization and ADR.
 <br>Getting a consolidated view to support decision-making in real time.
-**✅ Solution**
+
+<br>**✅ Solution**
 <br>I designed a Power BI dashboard that provides:
 <br>Key Metrics at a glance – Revenue, RevPAR, Occupancy%, ADR, Realisation%, DSRN.
 <br>Property-level insights – Compare performance of each hotel by revenue, cancellations, and ratings.
