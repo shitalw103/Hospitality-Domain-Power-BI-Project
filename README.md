@@ -1,5 +1,6 @@
 # Hospitality-Domain-Power-BI-Project
 Link to All resources:-https://codebasics.io/resources/end-to-end-data-analyst-project
+<br>**Project Link:-** https://app.powerbi.com/view?r=eyJrIjoiNTBlNmYzMjUtMzg5YS00OWZmLWJlMjctM2VlNGRjMDk1MTJlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 **🛑 Problem**
 <br>Hospitality businesses often struggle with:
